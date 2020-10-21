@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\controllers",
+    "\\backend\\ent",
+    "\\backend\\ent\\schema",
+    "\\frontend",
+    "\\frontend\\plugins",
+    "\\frontend\\plugins\\welcome",
+    "\\frontend\\plugins\\welcome\\src",
+    "\\frontend\\plugins\\welcome\\src\\components",
+    "\\frontend\\plugins\\welcome\\src\\components\\RecordReturninvoice",
+    "\\frontend\\plugins\\welcome\\src\\components\\RecordReturninvoiceTable"
+  ],
+  "SelectedNode": "\\frontend\\plugins\\welcome\\src\\components\\RecordReturninvoiceTable\\tables.tsx",
+  "PreviewInSolutionExplorer": false
+}
